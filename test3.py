@@ -33,4 +33,5 @@ def fun(s):
 
 s=input()
 count=fun(s)
+
 print(count)
